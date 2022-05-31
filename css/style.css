@@ -676,6 +676,20 @@ a#twitter {
 	margin: 10px 0;
 	width: auto;
 }
+#content div#mating {
+	float: none;
+	padding: 0 35px;
+	height: 1500px;
+}
+#content div#mating h3 {
+	float: none;
+	font-weight: bold;
+}
+#content div#mating h4 {
+	font-weight: normal;
+	margin: 10px 0;
+	width: auto;
+}
 #content div#contact {
 	float: none;
 	padding: 0 60px;
