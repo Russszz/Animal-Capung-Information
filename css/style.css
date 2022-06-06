@@ -11,6 +11,11 @@ body {
 	width:auto;
 	margin:0 auto;
 }
+#pmating{
+	background:url(../images/bg-page.gif) no-repeat center 0;
+	background-size: 960px 1350px;
+	margin:0 auto;
+}
 p a, h4 a {
 	color: #875316;
 }
@@ -679,7 +684,7 @@ a#twitter {
 #content div#mating {
 	float: none;
 	padding: 0 35px;
-	height: 1500px;
+	height: 1050px;
 }
 #content div#mating h3 {
 	float: none;
@@ -696,6 +701,11 @@ a#twitter {
 	height: 713px;
 }
 #content div#zoo p {
+	width: auto;
+	margin: 5px 0 30px;
+	font-size: 14px;
+}
+#content div#mating p {
 	width: auto;
 	margin: 5px 0 30px;
 	font-size: 14px;
